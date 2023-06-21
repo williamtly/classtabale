@@ -1,1 +1,1 @@
-# classtabale
+# classtable
